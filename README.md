@@ -2,7 +2,7 @@
 
 
 Project Title:
-Binary Image Classification: Happy vs. Sad
+Binary Image Classification: Happy vs Sad
 
 Project Overview:
 This project aims to develop a deep learning model that can classify images into two categories: "Happy" and "Sad". The model will be trained on a dataset containing images of people displaying happy and sad facial expressions.
