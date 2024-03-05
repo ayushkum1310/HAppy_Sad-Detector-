@@ -1,5 +1,7 @@
 # Happy_Sad-Detector-
 
+### Basic classification using neural network
+
 
 Project Title:
 Binary Image Classification: Happy vs Sad
